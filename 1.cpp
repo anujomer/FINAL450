@@ -1,5 +1,7 @@
 #include<iostream>
 using namespace std;
+void revarray()
 int main(){
-    cout << "there you are" ;
+    int arr[5] = {1,2,3,4,5};
+
 }
